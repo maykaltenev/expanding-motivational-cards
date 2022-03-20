@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-color: rgba(86, 76, 86, 0.749);
 }
 .container {
   display: flex;
